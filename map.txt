@@ -1,0 +1,6 @@
+dent
+scratch 
+crack 
+glass_shatter
+lamp_broken
+flat tire 

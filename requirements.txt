@@ -1,0 +1,7 @@
+accelerate
+torch
+pillow
+transformers
+notebook 
+tensorflow 
+opencv-python

@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+LFM2-VL-450M/
+images/
+others/
+.DS_Store
 # C extensions
 *.so
 
