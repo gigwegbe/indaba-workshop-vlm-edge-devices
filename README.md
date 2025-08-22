@@ -1,5 +1,8 @@
 # Deep Learning Indaba 2025 - Compute Workshop 
-- Slide - [Link]()
+[Workshop Image]
+![Workshop Image](./asset/workshop.png)
+##
+- Slide - [Link](https://docs.google.com/presentation/d/1QRS5ptKewG42ybzMVy99heo3UVGWiF_kniqitxqrx6I/edit?usp=sharing)
 ## Vision Language Model on Edge 
 [Training with Edge Impulse](https://studio.edgeimpulse.com/public/768888/live)
 
