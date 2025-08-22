@@ -1,5 +1,5 @@
-
-
+Colab - [Object Detection](https://colab.research.google.com/github/gigwegbe/indaba-workshop-vlm-edge-devices/blob/main/object_detection.ipynb)
+Colab - [VLM Prompt Engineering](https://colab.research.google.com/github/gigwegbe/indaba-workshop-vlm-edge-devices/blob/main/prompting_engineering.ipynb)
 ## References 
 - [Function Calling with Liquid txt Collaboration](https://www.liquid.ai/blog/liquid-txt-collaboration)
 - [LFM2-VL: Efficient Vision-Language Models](https://www.liquid.ai/blog/lfm2-vl-efficient-vision-language-models)
