@@ -1,0 +1,10 @@
+
+
+## References 
+- [Function Calling with Liquid txt Collaboration](https://www.liquid.ai/blog/liquid-txt-collaboration)
+- [LFM2-VL: Efficient Vision-Language Models](https://www.liquid.ai/blog/lfm2-vl-efficient-vision-language-models)
+- [Introducing LFM2: The Fastest On-Device Foundation Models on the Market](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models)
+- [Supervised Fine-Tuning (SFT) notebook with a LoRA adapter using Unsloth.](https://colab.research.google.com/drive/1HROdGaPFt1tATniBcos11-doVaH7kOI3?usp=sharing)
+- [Supervised Fine-Tuning (SFT) notebook with a LoRA adapter using Axolotl.](https://colab.research.google.com/drive/155lr5-uYsOJmZfO6_QZPjbs8hA_v8S7t?usp=sharing)
+- [Supervised Fine-Tuning (SFT) notebook with a LoRA adapter using TRL.](https://colab.research.google.com/drive/1j5Hk_SyBb2soUsuhU0eIEA9GwLNRnElF?usp=sharing)
+- [Preference alignment with Direct Preference Optimization (DPO) using TRL.](https://colab.research.google.com/drive/1MQdsPxFHeZweGsNx4RH7Ia8lG8PiGE1t?usp=sharing)
