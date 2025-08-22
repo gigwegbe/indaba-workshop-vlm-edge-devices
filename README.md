@@ -1,7 +1,10 @@
 # Deep Learning Indaba 2025 - Compute Workshop 
+- Slide - [Link]()
 ## Vision Language Model on Edge 
+[Training with Edge Impulse](https://studio.edgeimpulse.com/public/768888/live)
+
  Colab - [Object Detection](https://colab.research.google.com/github/gigwegbe/indaba-workshop-vlm-edge-devices/blob/main/object_detection.ipynb)
- 
+
  Colab - [VLM Prompt Engineering](https://colab.research.google.com/github/gigwegbe/indaba-workshop-vlm-edge-devices/blob/main/prompting_engineering.ipynb)
 ## References 
 - [Function Calling with Liquid txt Collaboration](https://www.liquid.ai/blog/liquid-txt-collaboration)
