@@ -10,6 +10,7 @@
 
  Colab - [VLM Prompt Engineering](https://colab.research.google.com/github/gigwegbe/indaba-workshop-vlm-edge-devices/blob/main/prompting_engineering.ipynb)
 ## References 
+- [Object detection with bounding boxes](https://docs.edgeimpulse.com/tutorials/end-to-end/object-detection-bounding-boxes)
 - [Function Calling with Liquid txt Collaboration](https://www.liquid.ai/blog/liquid-txt-collaboration)
 - [LFM2-VL: Efficient Vision-Language Models](https://www.liquid.ai/blog/lfm2-vl-efficient-vision-language-models)
 - [Introducing LFM2: The Fastest On-Device Foundation Models on the Market](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models)
