@@ -1,5 +1,4 @@
 # Deep Learning Indaba 2025 - Compute Workshop 
-[Workshop Image]
 ![Workshop Image](./asset/workshop.jpg)
 ##
 - Slide - [Link](https://docs.google.com/presentation/d/1QRS5ptKewG42ybzMVy99heo3UVGWiF_kniqitxqrx6I/edit?usp=sharing)
